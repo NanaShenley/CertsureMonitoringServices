@@ -1,0 +1,11 @@
+C:\Users\divine.agbor\source\repos\CertsureMonitoringServices\CertsureMonitoringServices\bin\Debug\CertsureMonitoringServices.exe.config
+C:\Users\divine.agbor\source\repos\CertsureMonitoringServices\CertsureMonitoringServices\bin\Debug\CertsureMonitoringServices.exe
+C:\Users\divine.agbor\source\repos\CertsureMonitoringServices\CertsureMonitoringServices\bin\Debug\CertsureMonitoringServices.pdb
+C:\Users\divine.agbor\source\repos\CertsureMonitoringServices\CertsureMonitoringServices\bin\Debug\Topshelf.dll
+C:\Users\divine.agbor\source\repos\CertsureMonitoringServices\CertsureMonitoringServices\bin\Debug\WebDriver.dll
+C:\Users\divine.agbor\source\repos\CertsureMonitoringServices\CertsureMonitoringServices\bin\Debug\Topshelf.xml
+C:\Users\divine.agbor\source\repos\CertsureMonitoringServices\CertsureMonitoringServices\bin\Debug\WebDriver.xml
+C:\Users\divine.agbor\source\repos\CertsureMonitoringServices\CertsureMonitoringServices\obj\Debug\CertsureMonitoringServices.csproj.CoreCompileInputs.cache
+C:\Users\divine.agbor\source\repos\CertsureMonitoringServices\CertsureMonitoringServices\obj\Debug\CertsureMonitoringServices.csproj.CopyComplete
+C:\Users\divine.agbor\source\repos\CertsureMonitoringServices\CertsureMonitoringServices\obj\Debug\CertsureMonitoringServices.exe
+C:\Users\divine.agbor\source\repos\CertsureMonitoringServices\CertsureMonitoringServices\obj\Debug\CertsureMonitoringServices.pdb
